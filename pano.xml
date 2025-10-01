@@ -1,0 +1,1131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour appversion="7.1.11" hassounds="0" start="node45" apprev="21010">
+  <panorama hideabout="1" id="node53">
+    <input leveltileurl="tiles/node53/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3661" height="3661" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3661" predecode="0" height="3661"/>
+      <level preload="0" width="1830" predecode="0" height="1830"/>
+      <level preload="0" width="915" predecode="0" height="915"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="306.448" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="View" description="觀賞花東縱谷、花蓮夜景）" nodeid="node53" datetime="2025:02:08 10:47:40" customnodeid="" longitude="121.59637392" latitude="23.90843051" comment="" source="" info="" title="戶外觀景台" author="James Lee" heading="306.448">
+      <mapcoords x_floorplan_percent="27.6386" y_floorplan_percent="86.0324" x="0.499878" mapid="FloorPlan01" y="-1.1673"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="48.8643" url="{node45}" target="$fwd" pan="191.884" title="飯店大廳"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node45">
+    <input leveltileurl="tiles/node45/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3665" height="3665" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3665" predecode="0" height="3665"/>
+      <level preload="0" width="1832" predecode="0" height="1832"/>
+      <level preload="0" width="916" predecode="0" height="916"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-84.0058" fovmode="2">
+      <start tilt="-0.371324" fov="100" pan="162.112" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Lobby" description="走進大廳的第一眼，就被挑高穹頂和天窗引入的自然光吸引。黑白相間的地磚與花紋拼貼帶來強烈的節奏感，兩側的彩繪壁面則像展開的畫卷，讓人不自覺停下腳步欣賞。中間擺設的植栽與花卉，為空間增添了溫度，而籐製吊椅與沙發則營造出輕鬆的氛圍。這裡既有歐式廳堂的莊重感，也保留度假飯店的自在氣息，讓人有種正式與悠閒交融的體驗。" nodeid="node45" datetime="2025/3/25 11:32" customnodeid="" longitude="121.59681111" latitude="23.90824783" comment="" source="" info="" title="飯店大廳" author="James Lee" heading="-84.0058">
+      <mapcoords x_floorplan_percent="31.4351" y_floorplan_percent="72.3684" x="0.568542" mapid="FloorPlan01" y="-0.981903"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="10.3827" url="{node46}" target="$fwd" pan="-197.203" title="室內大廳休息區"/>
+      <hotspot description="" tilt="0" id="Point03" skinid="ht_node" distance="20.1444" url="{node60}" target="$fwd" pan="90.1756" title="麥坊"/>
+      <hotspot description="" tilt="0" id="Point04" skinid="ht_node" distance="38.3938" url="{node87}" target="$fwd" pan="-121.65" title="皮爾莎酒吧"/>
+      <hotspot description="" tilt="17.21" id="Point02" skinid="ht_node_Day&amp;Night" distance="2.0271" url="{node47}" target="" pan="-197.14" title="大廳夜間"/>
+      <hotspot description="" tilt="0" id="Point05" skinid="ht_node" distance="48.8643" url="{node53}" target="$fwd" pan="-18.5696" title="戶外觀景台"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node46">
+    <input leveltileurl="tiles/node46/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3662" height="3662" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3662" predecode="0" height="3662"/>
+      <level preload="0" width="1831" predecode="0" height="1831"/>
+      <level preload="0" width="915" predecode="0" height="915"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-63.2814" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Lobby" description="往大廳中央走去，挑高的拱頂延續著明亮的空間感，黑白幾何地磚與花紋拼貼交錯，讓腳步帶著節奏感。中央綠色長沙發與花卉布置，成為空間的視覺焦點，兩側的籐椅與休憩座位則邀人停留。柱面上的黑白花磚裝飾與環繞的彩繪壁帶，為整體增添藝術氣息。這裡既有歐式廳堂的莊重，也保留渡假氛圍的自在，讓人一走進來就想放慢腳步。" nodeid="node46" datetime="2025/3/25 11:40" customnodeid="" longitude="121.59690499" latitude="23.90821105" comment="" source="" info="" title="室內大廳休息區" author="James Lee" heading="-63.2814"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="10.3827" url="{node45}" target="$fwd" pan="3.52113" title="飯店大廳"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="47.7587" url="{node77}" target="$fwd" pan="114.264" title="宴會廳廊道"/>
+      <hotspot description="" tilt="-0.06" id="Point03" skinid="ht_node" distance="53.4844" url="{node75}" target="$fwd" pan="-103.04" title="維多利亞小舖"/>
+      <hotspot description="" tilt="0" id="Point04" skinid="ht_node" distance="19.7143" url="{node60}" target="$fwd" pan="80.7268" title="麥坊"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node47">
+    <input leveltileurl="tiles/node47/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="2779" height="2779" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="2779" predecode="0" height="2779"/>
+      <level preload="0" width="1389" predecode="0" height="1389"/>
+      <level preload="0" width="694" predecode="0" height="694"/>
+      <level preload="1" width="347" predecode="1" height="347"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="113.449" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Lobby" description="" nodeid="node47" datetime="2025/1/13 20:07" customnodeid="" longitude="121.59682989" latitude="23.90824170" comment="" source="" info="" title="大廳夜間" author="James Lee" heading="113.449"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="19.95" id="Point01" skinid="ht_node_Day&amp;Night" distance="2.0271" url="{node45}" target="" pan="-359.33" title="飯店大廳"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node60">
+    <input leveltileurl="tiles/node60/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3646" height="3646" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3646" predecode="0" height="3646"/>
+      <level preload="0" width="1823" predecode="0" height="1823"/>
+      <level preload="0" width="911" predecode="0" height="911"/>
+      <level preload="1" width="455" predecode="1" height="455"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-5.52615" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Dining" description="麥坊是飯店大廳旁的手作烘焙坊，麵包、甜點選擇多樣，外酥內軟；創意鹹味如剝皮辣椒雞麵包也受好評，甜點櫃裡的造型精緻像藝術品。 &#xa;&#xa;" nodeid="node60" datetime="2025:02:08 18:33:06" customnodeid="" longitude="121.59679102" latitude="23.90806760" comment="" source="" info="" title="麥坊" author="James Lee" heading="-5.52615"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="19.7143" url="{node46}" target="$fwd" pan="-41.5179" title="室內大廳休息區"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="33.1657" url="{node77}" target="$fwd" pan="-168.809" title="宴會廳廊道"/>
+      <hotspot description="" tilt="0" id="Point03" skinid="ht_node" distance="20.1444" url="{node45}" target="$fwd" pan="-11.3447" title="飯店大廳"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node77">
+    <input leveltileurl="tiles/node77/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3661" height="3661" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3661" predecode="0" height="3661"/>
+      <level preload="0" width="1830" predecode="0" height="1830"/>
+      <level preload="0" width="915" predecode="0" height="915"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="37.5671" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Lobby" description="宴會廳廊道的設計展現了新古典歐式的氛圍。拱形天花以對稱線條與圓拱造型構成，搭配垂掛的水晶吊燈與柱子上的壁燈，光線柔和不刺眼，營造出優雅而莊重的氛圍。兩側牆面懸掛的畫作，為空間增添藝術脈絡，讓人行走其間時，視線自然被引導至廊道盡頭的雕像。這樣的配置呼應了美術館或歐洲古典莊園的場景，強調藝術展示的氛圍，而非單純的裝飾。整體來看，這裡並不走華麗奢華的巴洛克風格，而是以對稱與克制為核心，呈現出內斂、典雅與可供欣賞的質感，宛如飯店將一段走廊轉化為小型藝廊般的體驗。" nodeid="node77" datetime="2025/3/25 10:11" customnodeid="" longitude="121.59688487" latitude="23.90778194" comment="" source="" info="" title="宴會廳廊道" author="James Lee" heading="37.5671"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="47.7587" url="{node46}" target="$fwd" pan="35.1126" title="室內大廳休息區"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="33.1657" url="{node60}" target="$fwd" pan="54.2846" title="麥坊"/>
+      <hotspot description="" tilt="0" id="Point03" skinid="ht_node" distance="21.2303" url="{node71}" target="$fwd" pan="-136.902" title="四季花園證婚池"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node75">
+    <input leveltileurl="tiles/node75/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3672" height="3672" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3672" predecode="0" height="3672"/>
+      <level preload="0" width="1836" predecode="0" height="1836"/>
+      <level preload="0" width="918" predecode="0" height="918"/>
+      <level preload="1" width="459" predecode="1" height="459"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="153.743" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="entertainment" description="維多利亞小舖擁有妝點浪漫的拱形入口與柔和吊燈，牆面以圓點、木質框架與玻璃展示櫃構成視覺層次。店內陳列各式絨毛玩偶與主題飾品，空間氛圍輕盈甜美，像一座小型藝趣市集。這裡既延續飯店的新古典調性，也讓人感受私人收藏與童趣交匯的空間質感。" nodeid="node75" datetime="2025/6/18 11:39" customnodeid="" longitude="121.59724563" latitude="23.90857763" comment="" source="" info="" title="維多利亞小舖" author="James Lee" heading="153.743">
+      <mapcoords x_floorplan_percent="23.6522" y_floorplan_percent="56.8826" x="0.42778" mapid="FloorPlan01" y="-0.77179"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="_blank" description="" tilt="-5.54" pan="-51.38" id="Point02" skinid="ht_url" title="" url=""/>
+      <hotspot target="_blank" description="" tilt="-1.52" pan="-9.39" id="Point03" skinid="ht_url" title="" url=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node48">
+    <input leveltileurl="tiles/node48/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3661" height="3661" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3661" predecode="0" height="3661"/>
+      <level preload="0" width="1830" predecode="0" height="1830"/>
+      <level preload="0" width="915" predecode="0" height="915"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-12.9835" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="View" description="這條燈海隧道是飯店夜間主題光影一環，入口架構如拱形門廊，密布點點燈飾，走入其中如穿梭星光隧道。夜晚點燈後，光影環繞漫步其中猶如行走在星河下，是拍照與沉浸氛圍的熱門景點。" nodeid="node48" datetime="2025/1/14 10:56" customnodeid="" longitude="121.59751385" latitude="23.90679374" comment="" source="" info="" title="燈海隧道入口" author="James Lee" heading="-12.9835">
+      <mapcoords x_floorplan_percent="64.085" y_floorplan_percent="54.1498" x="1.15906" mapid="FloorPlan01" y="-0.734711"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="$fwd" description="" tilt="0" pan="18.7872" id="Point03" skinid="ht_node" title="燈海隧道入口" url="{node48}"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node79">
+    <input leveltileurl="tiles/node79/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3664" height="3664" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3664" predecode="0" height="3664"/>
+      <level preload="0" width="1832" predecode="0" height="1832"/>
+      <level preload="0" width="916" predecode="0" height="916"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="142.355" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Dining" description="英倫西餐廳（British Garden）在日光之下展現寬敞通透的格調：落地窗引入自然光，挑高屋頂與白色拱形結構營造空間感。中央以熱氣球造型的吊燈懸掛，成為餐廳標誌性設計；地板以深淺交錯的拼花鋪展出視覺律動。餐廳供應全球風味自助料理，甜點區色彩繽紛尤為吸引。這裡既能感受飯店整體的新古典氣質，也帶出悠閒用餐的舒適氛圍。" nodeid="node79" datetime="2025/3/25 11:59" customnodeid="" longitude="121.59701094" latitude="23.90811174" comment="" source="" info="" title="英倫餐廳" author="James Lee" heading="142.355">
+      <mapcoords x_floorplan_percent="35.839" y_floorplan_percent="65.1822" x="0.648193" mapid="FloorPlan01" y="-0.884399"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="_blank" description="" tilt="-36.95" pan="-316.88" id="Point01" skinid="ht_url" title="" url=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node78">
+    <input leveltileurl="tiles/node78/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3667" height="3667" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3667" predecode="0" height="3667"/>
+      <level preload="0" width="1833" predecode="0" height="1833"/>
+      <level preload="0" width="916" predecode="0" height="916"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="178.257" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Dining" description="英倫餐廳的包廂區位於餐廳內側，提供較為安靜且私密的用餐環境。整體延續英式宮廷風格，以挑高空間與水晶吊燈為主體設計，並輔以鏡面與壁飾營造出延伸感。官方介紹指出，包廂適合家庭聚餐或小型宴會，能在典雅氛圍中享受自助餐與單點餐食。部落客則提到，包廂外的走道比大廳更顯靜謐，既能保留餐廳的華麗感，又帶來相對舒適的用餐氛圍。" nodeid="node78" datetime="2025/6/19 12:59" customnodeid="" longitude="121.59720540" latitude="23.90837411" comment="" source="" info="" title="英倫餐廳 - 包廂" author="James Lee" heading="178.257"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node50">
+    <input leveltileurl="tiles/node50/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="2203" height="2203" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="2203" predecode="0" height="2203"/>
+      <level preload="0" width="1101" predecode="0" height="1101"/>
+      <level preload="0" width="550" predecode="0" height="550"/>
+      <level preload="1" width="275" predecode="1" height="275"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="91.4692" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="View" description="對一個從台北這樣的大城市來的人來說，走到這個海側步道，真的有種呼吸被打開的感覺。下午的陽光讓太平洋閃著藍色光澤，白色欄杆就像把整片大海框成了一張照片。旁邊的風水牆和雕像很安靜，但卻讓人覺得這裡被守護著。和每天在水泥叢林裡看到的高樓完全不同，在這裡只想慢慢看海、什麼都不想。" nodeid="node50" datetime="2025/6/19 14:37" customnodeid="" longitude="121.59717456" latitude="23.90810438" comment="" source="" info="" title="海側步道風水牆" author="James Lee" heading="91.4692"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="67.4548" url="{node61}" target="$fwd" pan="-58.1827" title="南翼海側步道"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="102.489" url="{node69}" target="$fwd" pan="31.4793" title="水悅池畔證婚亭"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node61">
+    <input leveltileurl="tiles/node61/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3658" height="3658" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3658" predecode="0" height="3658"/>
+      <level preload="0" width="1829" predecode="0" height="1829"/>
+      <level preload="0" width="914" predecode="0" height="914"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="80.5646" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="View" description="南翼海側步道以對稱排列的建築延伸至遠方，紅瓦屋頂與白色外牆呼應歐式莊園的格調。午後陽光灑落，白色欄杆映襯著海天一色，遠方的太平洋遼闊無際。椰子樹與雕像點綴其中，讓這條步道在典雅與度假氛圍之間取得平衡。" nodeid="node61" datetime="2025:02:05 18:57:52" customnodeid="" longitude="121.59750983" latitude="23.90758087" comment="" source="" info="" title="南翼海側步道" author="James Lee" heading="80.5646">
+      <mapcoords x_floorplan_percent="48.0638" y_floorplan_percent="56.0729" x="0.869293" mapid="FloorPlan01" y="-0.760803"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="67.4548" url="{node50}" target="$fwd" pan="110.913" title="海側步道風水牆"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node54">
+    <input leveltileurl="tiles/node54/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3664" height="3664" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3664" predecode="0" height="3664"/>
+      <level preload="0" width="1832" predecode="0" height="1832"/>
+      <level preload="0" width="916" predecode="0" height="916"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="144.046" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="View" description="火舞廣場位於園區高點，正對太平洋視野，適合觀賞日出與日落；傍晚「黃金時刻」色溫變化明顯。現場設有夜間會發光的裝置盪鞦韆，成為親子與情侶熱門取景點；周邊亦串連「燈海」主題步道，夜間散步氛圍佳。建議日落前後到訪，可同時拍到海景與夜間燈光。" nodeid="node54" datetime="2025/6/19 11:23" customnodeid="" longitude="121.59797252" latitude="23.90620892" comment="" source="" info="" title="火舞廣場" author="James Lee" heading="144.046">
+      <mapcoords x_floorplan_percent="76.2339" y_floorplan_percent="43.0162" x="1.37878" mapid="FloorPlan01" y="-0.583649"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="10.224" url="{node55}" target="$fwd" pan="70.3095" title="火舞廣場"/>
+      <hotspot target="_blank" description="" tilt="3.25" pan="-196.31" id="Point03" skinid="ht_url" title="" url=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node55">
+    <input leveltileurl="tiles/node55/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="2201" height="2201" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="2201" predecode="0" height="2201"/>
+      <level preload="0" width="1100" predecode="0" height="1100"/>
+      <level preload="0" width="550" predecode="0" height="550"/>
+      <level preload="1" width="275" predecode="1" height="275"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="79.5164" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="View" description="" nodeid="node55" datetime="2025/6/19 11:22" customnodeid="" longitude="121.59806907" latitude="23.90623467" comment="" source="" info="" title="火舞廣場" author="James Lee" heading="79.5164"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="10.224" url="{node54}" target="$fwd" pan="185.78" title="火舞廣場"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node49">
+    <input leveltileurl="tiles/node49/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="2204" height="2204" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="2204" predecode="0" height="2204"/>
+      <level preload="0" width="1102" predecode="0" height="1102"/>
+      <level preload="0" width="551" predecode="0" height="551"/>
+      <level preload="1" width="275" predecode="1" height="275"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="122.433" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="room" description="發現庭園客房約36㎡，提供兩中床或一大床選擇，延伸至戶外的庭園空間是房型的一大特色。房內以大地色系與自然元素為主題，牆面搭配植物圖樣，並佐以藤編家具與溫潤燈光，營造出清新而安定的氛圍。白天能從落地門窗直接通往草坪，適合親子遊戲或靜坐閱讀；夜晚則轉為靜謐，庭園的綠意在燈光下顯得更加柔和。部落客普遍提及這裡「室內外串聯」的設計最受親子家庭青睞：孩子能自在跑跳，父母則能輕鬆在房內或陽台享受片刻安靜。&#xa;" nodeid="node49" datetime="2025/6/18 13:48" customnodeid="" longitude="121.59743607" latitude="23.90735405" comment="" source="" info="" title="發現庭園客房" author="James Lee" heading="122.433"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node52">
+    <input leveltileurl="tiles/node52/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3663" height="3663" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3663" predecode="0" height="3663"/>
+      <level preload="0" width="1831" predecode="0" height="1831"/>
+      <level preload="0" width="915" predecode="0" height="915"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="" description="豪華海景客房約36㎡（約11坪），提供一大床或兩中床，面向太平洋並配置陽台與齊備備品；設計以大地色系與花卉圖案鋪陳，搭配木質家具與柔和燈光，將觀海、休憩與住宿機能放在同一視線軸上。白天光線從落地窗緩緩鋪進，將室內的沉穩色調推亮；入夜後只剩海風與月色，房間轉為安靜的低飽和氛圍，適合長時間停留與放鬆。旅遊文章普遍把這一型房視為「看海的經典房型」：格局方正、採光好，陽台視野開闊，坐著放空或清晨看日出都成為旅程裡最被提及的片段。" nodeid="node52" datetime="2025/3/25 10:32" customnodeid="" longitude="" latitude="" comment="" source="" info="" title="豪華海景客房" author="James Lee" heading="0"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node56">
+    <input leveltileurl="tiles/node56/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3670" height="3670" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3670" predecode="0" height="3670"/>
+      <level preload="0" width="1835" predecode="0" height="1835"/>
+      <level preload="0" width="917" predecode="0" height="917"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="38.8058" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="room" description="豪華海景套房以深色木質調與典雅軟裝營造低調奢華的氛圍，設有寬敞的起居室與獨立臥房，讓休憩與娛樂動線更為分明。大片落地窗與陽台面向太平洋，清晨能欣賞海平面的金色光影，夜晚則可靜賞月色與海風。房內備有皮革單椅、舒適沙發與柔和燈飾，呈現典雅而舒心的空間感。許多旅遊部落客特別推薦這間房型，認為是「最能代表東海岸景色」的選擇，無論是度假、慶生還是蜜月，都能留下難忘的回憶。&#xa;" nodeid="node56" datetime="2025/6/18 12:56" customnodeid="" longitude="121.59716204" latitude="23.90765263" comment="" source="" info="" title="豪華海景套房" author="James Lee" heading="38.8058">
+      <mapcoords x_floorplan_percent="45.4062" y_floorplan_percent="61.1336" x="0.821228" mapid="FloorPlan01" y="-0.829468"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node57">
+    <input leveltileurl="tiles/node57/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3664" height="3664" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3664" predecode="0" height="3664"/>
+      <level preload="0" width="1832" predecode="0" height="1832"/>
+      <level preload="0" width="916" predecode="0" height="916"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="room" description="豪華海景套房以深色木質調與典雅軟裝營造低調奢華的氛圍，設有寬敞的起居室與獨立臥房，讓休憩與娛樂動線更為分明。大片落地窗與陽台面向太平洋，清晨能欣賞海平面的金色光影，夜晚則可靜賞月色與海風。房內備有皮革單椅、舒適沙發與柔和燈飾，呈現典雅而舒心的空間感。許多旅遊部落客特別推薦這間房型，認為是「最能代表東海岸景色」的選擇，無論是度假、慶生還是蜜月，都能留下難忘的回憶。" nodeid="node57" datetime="2025/6/18 12:34" customnodeid="" longitude="121.59722954" latitude="23.90774638" comment="" source="" info="" title="豪華海景套房" author="James Lee" heading="0"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node58">
+    <input leveltileurl="tiles/node58/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3673" height="3673" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3673" predecode="0" height="3673"/>
+      <level preload="0" width="1836" predecode="0" height="1836"/>
+      <level preload="0" width="918" predecode="0" height="918"/>
+      <level preload="1" width="459" predecode="1" height="459"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="60.1995" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="room" description="精緻山景客房位於北翼樓層，以壯麗的中央山脈景緻作為最大賣點。房內設計融合典雅的歐式家具與現代簡約線條，牆面花卉壁畫與大片落地窗，營造出柔和卻不失格調的氛圍。陽台望出去，可清楚遠眺太魯閣山系與花蓮溪谷，白天陽光映照下，綠意與藍天層次分明；入夜後，靜謐的山影成為另一種安定感。部落客常提到，房內地毯厚實、沙發區舒適，是親子入住時孩子能自在活動的空間。整體而言，這間客房以「舒適住宿」與「山景視野」雙優勢，成為許多家庭旅客最愛的選擇之一。" nodeid="node58" datetime="2025/6/19 9:47" customnodeid="" longitude="121.59808248" latitude="23.90891111" comment="" source="" info="" title="精緻山景客房" author="James Lee" heading="60.1995">
+      <mapcoords x_floorplan_percent="17.2361" y_floorplan_percent="34.919" x="0.311737" mapid="FloorPlan01" y="-0.473785"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node62">
+    <input leveltileurl="tiles/node62/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3673" height="3673" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3673" predecode="0" height="3673"/>
+      <level preload="0" width="1836" predecode="0" height="1836"/>
+      <level preload="0" width="918" predecode="0" height="918"/>
+      <level preload="1" width="459" predecode="1" height="459"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="153.772" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Dining" description="秋草鍋物料理以和風氛圍見長，內裝大量使用竹材與木質元素，搭配暖色系燈光，營造靜謐沉穩的用餐體驗。餐廳主打精緻火鍋套餐，包含新鮮海鮮、肉品與蔬菜，並強調季節性的食材搭配。根據旅遊部落客分享，這裡的亮點除了湯頭選擇多樣（如昆布、藥膳、麻辣），還有貼心的桌邊服務與舒適的座位間距，讓用餐不顯擁擠。與飯店其他明亮活潑的餐廳相比，秋草更像是一處靜心用餐的角落，適合家庭與情侶在旅途中享受一段溫潤、專注於美食的時光。" nodeid="node62" datetime="2025/6/18 11:23" customnodeid="" longitude="121.59718528" latitude="23.90855556" comment="" source="" info="" title="秋草鍋物料理" author="James Lee" heading="153.772"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node63">
+    <input leveltileurl="tiles/node63/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3669" height="3669" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3669" predecode="0" height="3669"/>
+      <level preload="0" width="1834" predecode="0" height="1834"/>
+      <level preload="0" width="917" predecode="0" height="917"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-259.873" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="entertainment" description="瑞奇活力館是遠雄悅來飯店專為親子與休閒活動設計的館舍，大廳設有服務櫃檯，方便旅客報名體驗課程或活動，並提供相關設施的諮詢。整體空間以木質元素與簡潔線條營造輕鬆氛圍，搭配公告區與導覽資訊，成為旅客進入親子樂園與運動設施的起點。根據多位旅客分享，這裡不僅是服務中心，也常被視為親子行程的集合點與分流中心，讓家庭在參加館內課程（如親子活動、手作或健身體驗）前，能夠有清楚的安排。" nodeid="node63" datetime="2025/6/18 16:05" customnodeid="" longitude="121.59853041" latitude="23.90874804" comment="" source="" info="" title="瑞奇活力館" author="James Lee" heading="-259.873">
+      <mapcoords x_floorplan_percent="21.5642" y_floorplan_percent="25.3036" x="0.390015" mapid="FloorPlan01" y="-0.343323"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="53.1155" url="{node69}" target="$fwd" pan="-147.39" title="水悅池畔證婚亭"/>
+      <hotspot description="" tilt="0" id="Point03" skinid="ht_node" distance="13.7524" url="{node65}" target="$fwd" pan="-331.975" title="瑞奇-親子休息區"/>
+      <hotspot description="" tilt="0" id="Point04" skinid="ht_node" distance="32.1181" url="{node64}" target="$fwd" pan="-402.806" title="瑞奇-室內泳池"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node64">
+    <input leveltileurl="tiles/node64/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3673" height="3673" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3673" predecode="0" height="3673"/>
+      <level preload="0" width="1836" predecode="0" height="1836"/>
+      <level preload="0" width="918" predecode="0" height="918"/>
+      <level preload="1" width="459" predecode="1" height="459"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-89.7065" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="entertainment" description="瑞奇活力館內設有室內溫水泳池，開放時間為 07:00 至 22:00（每日 12:00-13:00 為泳池清潔時間暫停開放） 。這座泳池是全年齡適合的設施之一，屬於飯店全年齡娛樂館的一環 。部落客曾分享，這裡除了標準泳道，還有水療池與海景視窗，讓人在游泳與放鬆之間切換自如 。空間設計以天花拱頂、大片玻璃窗、以及柔光照明為主，強調泳池區與海景的視覺連結與空氣流通感。這裡不論是帶著孩子戲水或獨自來泡水療，都是旅途中一段不錯的休憩時光。" nodeid="node64" datetime="2025/6/19 10:18" customnodeid="" longitude="121.59872085" latitude="23.90851756" comment="" source="" info="" title="瑞奇-室內泳池" author="James Lee" heading="-89.7065"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="32.1181" url="{node63}" target="$fwd" pan="-52.64" title="瑞奇活力館"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node65">
+    <input leveltileurl="tiles/node65/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3669" height="3669" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3669" predecode="0" height="3669"/>
+      <level preload="0" width="1834" predecode="0" height="1834"/>
+      <level preload="0" width="917" predecode="0" height="917"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="15.677" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="entertainment" description="親子休息區是瑞奇活力館設計中重要的輔助空間，定位為活動之間的過渡舒適角落。依官方設施頁面，瑞奇活力館為「全年齡適宜的娛樂館」，設有室內外泳池、健身房與遊戲設施，休息區正是讓大人與孩童在運動與遊戲間稍作休憩的場所。 &#xa;&#xa;在部落客體驗中，這裡常被描述為「孩子玩得盡興，大人能坐下喘息的地方」。例如 Ken&amp;Alice 探訪時就提到，父母可以在休息區翻書、看風景，孩子遊戲空間緊鄰休息區，能保持視線可控卻不干擾家長。 &#xa;Ken&amp;Alice 玩樂誌&#xa;在空間設計上，親子休息區採暖木色與自然綠意佈景，搭配柔和燈光，避免過強光線造成突兀感。家具採低矮沙發與寬敞動線控制，使得從休息區到遊戲區可流暢通行。此區也常作為親子活動報到點或活動前後集合處。&#xa;&#xa;" nodeid="node65" datetime="2025/6/18 16:16" customnodeid="" longitude="121.59865915" latitude="23.90878605" comment="" source="" info="" title="瑞奇-親子休息區" author="James Lee" heading="15.677"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="13.7524" url="{node63}" target="$fwd" pan="123.575" title="瑞奇活力館"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node66">
+    <input leveltileurl="tiles/node66/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3659" height="3659" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3659" predecode="0" height="3659"/>
+      <level preload="0" width="1829" predecode="0" height="1829"/>
+      <level preload="0" width="914" predecode="0" height="914"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="194.579" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="View" description="詩人花園位於南北翼步道間，是悅來飯店園區中的雕塑花園。花園中整齊排列的維多利亞風格雕像與幾何小徑，透露出典雅的韻味。從前方走道望去，可以看到酒店建築的立面與山海背景相互呼應。部落客曾描述「散步在詩人花園與步道之間，隨處可見維多利亞時期雕像，沉穩且淡雅」&#xa;&#xa;建議在午後時分來訪，柔和光線與雕像陰影交錯，最能體會花園的靜謐與設計感。" nodeid="node66" datetime="2025:02:04 20:35:37" customnodeid="" longitude="121.59780756" latitude="23.90904597" comment="" source="" info="" title="詩人花園" author="James Lee" heading="194.579">
+      <mapcoords x_floorplan_percent="19.8937" y_floorplan_percent="52.2267" x="0.359802" mapid="FloorPlan01" y="-0.708618"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node68">
+    <input leveltileurl="tiles/node68/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3657" height="3657" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3657" predecode="0" height="3657"/>
+      <level preload="0" width="1828" predecode="0" height="1828"/>
+      <level preload="0" width="914" predecode="0" height="914"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-122.994" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="entertainment" description="水悅池是遠雄悅來飯店的戶外泳池，以藍白色調與六角形花紋池底作為設計亮點，搭配周邊的南洋椰林與白色涼亭，呈現濃厚的度假氛圍。根據飯店官方介紹，泳池適合全家共遊，並於夏季開放夜間點燈時段，水面在燈光映照下更顯浪漫。部落客也特別提到，傍晚時分泡在池畔，可以同時望見太平洋與遠方中央山脈的霞光，是入住時不可錯過的景致。" nodeid="node68" datetime="2025/1/14 11:15" customnodeid="" longitude="121.59844860" latitude="23.90851633" comment="" source="" info="" title="水悅池" author="James Lee" heading="-122.994">
+      <mapcoords x_floorplan_percent="26.4996" y_floorplan_percent="29.0486" x="0.479279" mapid="FloorPlan01" y="-0.394135"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="41.1252" url="{node69}" target="$fwd" pan="-40.6137" title="水悅池畔證婚亭"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node69">
+    <input leveltileurl="tiles/node69/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3658" height="3658" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3658" predecode="0" height="3658"/>
+      <level preload="0" width="1829" predecode="0" height="1829"/>
+      <level preload="0" width="914" predecode="0" height="914"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="132.582" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="entertainment" description="水悅池畔證婚亭是飯店的熱門婚禮場地，以白色涼亭與海天一線的景觀作為儀式背景。根據官方介紹，這裡常用於戶外婚禮、承諾儀式與浪漫派對，傍晚時分尤為動人，夕陽灑落在太平洋上，整個場景充滿儀式感。部落客也曾分享，站在亭中向外望去，無論是拍攝婚紗或舉辦小型聚會，都能感受到浪漫氛圍。" nodeid="node69" datetime="2025:02:05 14:47:52" customnodeid="" longitude="121.59804761" latitude="23.90856537" comment="" source="" info="" title="水悅池畔證婚亭" author="James Lee" heading="132.582"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="102.489" url="{node50}" target="$fwd" pan="252.592" title="海側步道風水牆"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="41.1252" url="{node68}" target="$fwd" pan="34.9625" title="水悅池"/>
+      <hotspot description="" tilt="0" id="Point03" skinid="ht_node" distance="53.1155" url="{node63}" target="$fwd" pan="65.0652" title="瑞奇活力館"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node71">
+    <input leveltileurl="tiles/node71/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3655" height="3655" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3655" predecode="0" height="3655"/>
+      <level preload="0" width="1827" predecode="0" height="1827"/>
+      <level preload="0" width="913" predecode="0" height="913"/>
+      <level preload="1" width="456" predecode="1" height="456"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-22.4552" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="View" description="四季花園證婚池為遠雄悅來大飯店提供的戶外證婚場域之一，屬於「四季花園」場地範疇。官方婚禮方案中，四季花園可安排上午或下午時段舉行典禮，並搭配紅地毯、椅背花、音響設備等基本配置。 照片中可見白池設計與雕塑背景，佐以對稱植栽與池邊小徑，使儀式現場兼具自然與典雅。建議在夕陽前後到訪，光影交錯時分最能呈現這一處內斂浪漫的場域質感。" nodeid="node71" datetime="2025/1/14 10:40" customnodeid="" longitude="121.59690500" latitude="23.90759190" comment="" source="" info="" title="四季花園證婚池" author="James Lee" heading="-22.4552">
+      <mapcoords x_floorplan_percent="45.3303" y_floorplan_percent="70.9514" x="0.819855" mapid="FloorPlan01" y="-0.962677"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="21.2303" url="{node77}" target="$fwd" pan="-16.9241" title="宴會廳廊道"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="25.9768" url="{node70}" target="$fwd" pan="-176.968" title="四季花園"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node70">
+    <input leveltileurl="tiles/node70/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3662" height="3662" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3662" predecode="0" height="3662"/>
+      <level preload="0" width="1831" predecode="0" height="1831"/>
+      <level preload="0" width="915" predecode="0" height="915"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-40.2215" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="View" description="四季花園位於遠雄悅來飯店的核心中庭，以大型玻璃溫室打造而成。這裡全年展示多樣花卉與植栽，搭配中央垂掛式的花卉裝置藝術，成為拍照與休憩的熱門場域。官方特別強調「四季皆有花香」，無論春夏秋冬，都能感受到不同的自然氛圍。許多部落客分享，他們在這裡特別喜歡坐在木椅上休息，欣賞陽光透過玻璃屋頂灑落的景象，氛圍浪漫而放鬆。" nodeid="node70" datetime="2025/1/14 10:48" customnodeid="" longitude="121.59701496" latitude="23.90738102" comment="" source="" info="" title="四季花園" author="James Lee" heading="-40.2215"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="25.9768" url="{node71}" target="$fwd" pan="-14.7346" title="四季花園證婚池"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="40.0762" url="{node59}" target="$fwd" pan="-195.488" title="落雨松步道"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node59">
+    <input leveltileurl="tiles/node59/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3673" height="3673" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3673" predecode="0" height="3673"/>
+      <level preload="0" width="1836" predecode="0" height="1836"/>
+      <level preload="0" width="918" predecode="0" height="918"/>
+      <level preload="1" width="459" predecode="1" height="459"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="82.4188" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="View" description="落雨松步道是遠雄悅來飯店園區內著名的自然散步路線。步道以紅磚舖設，兩側種滿落雨松與多樣植栽，隨著季節變化展現不同風貌：春夏翠綠、秋冬轉為金黃或橙紅，讓遊客一年四季都能感受到大自然的色彩。許多部落客形容，這裡不僅適合拍照，也是早晨或傍晚散步、慢跑的最佳選擇，能在寧靜氛圍中感受海風與森林的交織。" nodeid="node59" datetime="2025/6/19 11:40" customnodeid="" longitude="121.59717991" latitude="23.90705367" comment="" source="" info="" title="落雨松步道" author="James Lee" heading="82.4188">
+      <mapcoords x_floorplan_percent="60.2126" y_floorplan_percent="62.0445" x="1.08902" mapid="FloorPlan01" y="-0.841827"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="40.0762" url="{node70}" target="$fwd" pan="107.153" title="四季花園"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node72">
+    <input leveltileurl="tiles/node72/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3663" height="3663" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3663" predecode="0" height="3663"/>
+      <level preload="0" width="1831" predecode="0" height="1831"/>
+      <level preload="0" width="915" predecode="0" height="915"/>
+      <level preload="1" width="457" predecode="1" height="457"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="71.7696" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="room" description="「探索庭園客房」鎖定親子族群與多代同行，將野奢露營感帶進室內：房內常見帳篷元素/上下舖系列的同主題設計、投影設備強化露營氛圍，並以熱帶島嶼與非洲圖騰做視覺語彙；走出落地門銜接專屬庭園，讓孩子能在半戶外空間安全放電。此系列與「發現」並列為飯店雙主題房，作為整體改裝主軸，滿足親子與多代旅客同住需求。部落客實住多以「偽露營」「親子友善」形容其體驗重點。" nodeid="node72" datetime="2025/6/18 15:19" customnodeid="" longitude="121.59751654" latitude="23.90714562" comment="" source="" info="" title="探索庭園客房" author="James Lee" heading="71.7696"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node73">
+    <input leveltileurl="tiles/node73/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3669" height="3669" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3669" predecode="0" height="3669"/>
+      <level preload="0" width="1834" predecode="0" height="1834"/>
+      <level preload="0" width="917" predecode="0" height="917"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-212.843" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Dining" description="唐苑中餐廳與英倫西餐廳的交界處設有迎賓台，這裡是兩大餐飲空間的分界點。唐苑以精緻粵菜與江浙料理聞名，講究細膩的中式氛圍；英倫餐廳則以挑高大窗與宮廷風格為特色，提供國際自助餐與歐式佳餚。站在迎賓台，遊客能同時感受到東西方餐飲文化的對比與交融，是許多部落客形容「宛如穿越的瞬間」。" nodeid="node73" datetime="2025/6/19 12:30" customnodeid="" longitude="121.59694925" latitude="23.90800997" comment="" source="" info="" title="唐苑-迎賓" author="James Lee" heading="-212.843"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="15.6393" url="{node74}" target="$fwd" pan="-378.201" title="唐苑-主廳"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node74">
+    <input leveltileurl="tiles/node74/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3670" height="3670" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3670" predecode="0" height="3670"/>
+      <level preload="0" width="1835" predecode="0" height="1835"/>
+      <level preload="0" width="917" predecode="0" height="917"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="157.648" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Dining" description="唐苑中餐廳的主廳以深色木質地板與弧形天花板營造出沉穩大器的氛圍，搭配藤編結構與現代色彩點綴的座椅，呈現「新東方風格」的餐飲空間。根據官方介紹，這裡以精緻粵式料理和創新中菜為主打，結合傳統技法與現代美學，成為飯店內受歡迎的餐飲選擇之一。部落客多提到，白天時陽光從窗邊灑落，讓深色空間添上柔和的光澤；夜晚則因吊燈與燈光點綴，轉換成優雅、穩重的氛圍。無論是家庭聚餐或正式宴客，這裡都能展現出體面卻不失舒適的用餐體驗。" nodeid="node74" datetime="2025/6/19 12:16" customnodeid="" longitude="121.59698814" latitude="23.90787389" comment="" source="" info="" title="唐苑-主廳" author="James Lee" heading="157.648"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="15.6393" url="{node73}" target="$fwd" pan="172.29" title="唐苑-迎賓"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node80">
+    <input leveltileurl="tiles/node80/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3665" height="3665" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3665" predecode="0" height="3665"/>
+      <level preload="0" width="1832" predecode="0" height="1832"/>
+      <level preload="0" width="916" predecode="0" height="916"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="62.9411" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="room" description="「悅來寰宇客房–發現主題」以舒適與共享為核心，展現家庭旅宿的溫馨氛圍。房間配置兩張大床及側邊加大的臥鋪，特別適合多人口的親子或家庭旅遊。窗邊設計的環形沙發區，成為家人互動的核心空間，無論是休憩、遊戲或談心，都能營造親密的交流氛圍。搭配自然色調的牆面與細膩的裝飾，整體空間兼具實用與美感，是旅客放鬆身心的理想選擇。" nodeid="node80" datetime="2025/6/18 13:33" customnodeid="" longitude="121.59728855" latitude="23.90759312" comment="" source="" info="" title="悅來寰宇-發現" author="James Lee" heading="62.9411"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node81">
+    <input leveltileurl="tiles/node81/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3670" height="3670" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3670" predecode="0" height="3670"/>
+      <level preload="0" width="1835" predecode="0" height="1835"/>
+      <level preload="0" width="917" predecode="0" height="917"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="51.0676" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="room" description="「悅來寰宇客房–探索主題」以冒險氛圍為設計靈感，特別適合親子入住。房內設有上下舖床位，並搭配帳篷式的小遊戲區，營造出宛如野營般的樂趣，讓孩子能自在探索。牆面以動物圖案點綴，搭配木質地板與溫暖燈光，使空間兼具趣味與舒適。此房型同時提供兩張中床，讓全家在活動之餘能享有安穩睡眠，是親子旅遊的熱門選擇。" nodeid="node81" datetime="2025/6/18 15:46" customnodeid="" longitude="121.59739316" latitude="23.90740922" comment="" source="" info="" title="悅來寰宇-探索" author="James Lee" heading="51.0676"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node82">
+    <input leveltileurl="tiles/node82/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3670" height="3670" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3670" predecode="0" height="3670"/>
+      <level preload="0" width="1835" predecode="0" height="1835"/>
+      <level preload="0" width="917" predecode="0" height="917"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="121.801" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="entertainment" description="悅沐館多功能教室以木質調為主軸設計，搭配寬敞的落地窗與鏡面牆面，營造出明亮且沉穩的氛圍。這裡主要提供瑜伽體驗與舒壓教學，讓旅客在旅程中能透過伸展與調息恢復身心平衡。許多旅遊文章都提到，清晨的陽光灑進室內時，在這裡做瑜伽特別能感受到專注與安定。這個空間不僅是一個活動場域，更是一處幫助旅客在假期中重新調整節奏的靜心之所。" nodeid="node82" datetime="2025/6/19 11:02" customnodeid="" longitude="121.59741461" latitude="23.90689428" comment="" source="" info="" title="悅沐館多功能教室" author="James Lee" heading="121.801"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot target="_blank" description="" tilt="-0.49" pan="-40.74" id="Point01" skinid="ht_url" title="" url=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node83">
+    <input leveltileurl="tiles/node83/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3669" height="3669" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3669" predecode="0" height="3669"/>
+      <level preload="0" width="1834" predecode="0" height="1834"/>
+      <level preload="0" width="917" predecode="0" height="917"/>
+      <level preload="1" width="458" predecode="1" height="458"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="186.57" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="entertainment" description="樂活休憩區以木質調與灰磚牆構築舒適氛圍，搭配籐編家具與編織燈飾，呈現北歐與南洋融合的設計語彙。除了是住客休憩的空間，這裡也規劃為「手沖咖啡教學」的體驗場域。專業講師透過器具示範與風味介紹，讓旅客在度假之餘，也能學習咖啡沖煮的技巧與品味。場內設有中央沙發交誼區、吧台及花園景觀座位，適合家庭、朋友聚會或安靜閱讀，是兼具體驗與休閒的多功能場域。" nodeid="node83" datetime="2025/6/19 10:47" customnodeid="" longitude="121.59749910" latitude="23.90692370" comment="" source="" info="" title="悅沐館樂活休憩區" author="James Lee" heading="186.57">
+      <mapcoords x_floorplan_percent="61.5034" y_floorplan_percent="55.3644" x="1.11237" mapid="FloorPlan01" y="-0.75119"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node84">
+    <input leveltileurl="tiles/node84/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3677" height="3677" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3677" predecode="0" height="3677"/>
+      <level preload="0" width="1838" predecode="0" height="1838"/>
+      <level preload="0" width="919" predecode="0" height="919"/>
+      <level preload="1" width="459" predecode="1" height="459"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="154.503" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="entertainment" description="" nodeid="node84" datetime="2025/6/18 11:54" customnodeid="" longitude="121.59732208" latitude="23.90847709" comment="" source="" info="" title="悅心會" author="James Lee" heading="154.503">
+      <mapcoords x_floorplan_percent="26.8793" y_floorplan_percent="55.1619" x="0.486145" mapid="FloorPlan01" y="-0.748444"/>
+    </userdata>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="5.26572" url="{node85}" target="$fwd" pan="265.748" title="悅心會"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node85">
+    <input leveltileurl="tiles/node85/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3678" height="3678" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3678" predecode="0" height="3678"/>
+      <level preload="0" width="1839" predecode="0" height="1839"/>
+      <level preload="0" width="919" predecode="0" height="919"/>
+      <level preload="1" width="459" predecode="1" height="459"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-140.01" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="" description="" nodeid="node85" datetime="2025/6/18 12:00" customnodeid="" longitude="121.59727380" latitude="23.90845993" comment="" source="" info="" title="悅心會" author="James Lee" heading="-140.01"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="5.26572" url="{node84}" target="$fwd" pan="-208.765" title="悅心會"/>
+      <hotspot description="" tilt="0" id="Point02" skinid="ht_node" distance="7.01792" url="{node86}" target="$fwd" pan="-290.953" title="悅心會"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node86">
+    <input leveltileurl="tiles/node86/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="3678" height="3678" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="3678" predecode="0" height="3678"/>
+      <level preload="0" width="1839" predecode="0" height="1839"/>
+      <level preload="0" width="919" predecode="0" height="919"/>
+      <level preload="1" width="459" predecode="1" height="459"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="173.84" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="" description="" nodeid="node86" datetime="2025/6/18 12:04" customnodeid="" longitude="121.59730733" latitude="23.90840476" comment="" source="" info="" title="悅心會" author="James Lee" heading="173.84"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="7.01792" url="{node85}" target="$fwd" pan="202.897" title="悅心會"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <panorama hideabout="1" id="node87">
+    <input leveltileurl="tiles/node87/cf_%c/l_%l/c_%x/tile_%y.jpg" levelingpitch="0" overlap="1" levelingroll="0" leveltilesize="510" width="2202" height="2202" levelbias="0.400" levelbiashidpi="1.000">
+      <level preload="0" width="2202" predecode="0" height="2202"/>
+      <level preload="0" width="1101" predecode="0" height="1101"/>
+      <level preload="0" width="550" predecode="0" height="550"/>
+      <level preload="1" width="275" predecode="1" height="275"/>
+      <preview color="0x808080" strip="1"/>
+    </input>
+    <view pannorth="-181.702" fovmode="2">
+      <start tilt="0" fov="100" pan="0" projection="4"/>
+      <flyin tilt="-90" fov="170" pan="0" projection="9"/>
+      <min tilt="-90" fovpixel="2" pan="0"/>
+      <max fovfisheye="360" tilt="90" fov="140" pan="360" scaletofit="1" fovstereographic="330"/>
+    </view>
+    <userdata copyright="JP覺射數位影像工作室" tags="Dining" description="皮爾莎酒吧位於飯店一隅，以低調奢華的裝潢營造專屬於大人的氛圍。入口區域以黑金色調、復古燈飾與細緻的壁飾設計，展現濃厚的歐式酒吧風格。官方介紹提到，酒吧提供多樣的調酒與葡萄酒，常被旅客視為夜晚放鬆的好去處。部落客則分享，推開這扇門後，仿佛與白天的渡假氛圍隔絕開來，進入一個專屬於夜晚的私密空間。" nodeid="node87" datetime="2025/6/18 10:57" customnodeid="" longitude="121.59704179" latitude="23.90852123" comment="" source="" info="" title="皮爾莎酒吧" author="James Lee" heading="-181.702"/>
+    <hotspots wordwrap="1" smoothmovement="0" width="180" height="20">
+      <label enabled="1" textalpha="1" bordercolor="0x000000" border="1" borderradius="1" backgroundcolor="0xffffff" wordwrap="1" borderalpha="1" backgroundalpha="1" width="180" height="20" background="1" textcolor="0x000000"/>
+      <polystyle backgroundcolor="0x0000ff" borderalpha="1" bordercolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
+      <hotspot description="" tilt="0" id="Point01" skinid="ht_node" distance="38.3938" url="{node45}" target="$fwd" pan="-39.3468" title="飯店大廳"/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" enabled="1" zoomout="0" delay="none" zoomspeed="2" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafterinfov="140" zoomoutpause="1" blendtime="1" softedge="0" zoomafteroutfov="40"/>
+    <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0"/>
+    <control sensitivity="8" speedwheel="1" invertwheel="0" contextvr="0" lockedmouse="0" rubberband="0" lockedkeyboard="0" simulatemass="1" invertcontrol="1" lockedwheel="0" hideabout="1" dblclickfullscreen="0" lockedkeyboardzoom="0" zoomcentercursor="1" contextfullscreen="1" contextprojections="0">
+      <menulink text="爵攝數位影像" url="https://oring-brother.com"/>
+    </control>
+  </panorama>
+  <masternode>
+    <userdata copyright="JP爵攝數位影像工作室" tags="" description="720度虛擬導覽" title="遠雄悅來飯店" author="James Lee" comment=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+  <map type="file" crispedges="0" zoomlevels="1" floorplannorth="269" id="FloorPlan01" transparent="1" index="0" bgcolor="rgba(255, 255, 255, 0)" title="" width="2634" tileformat="jpg" height="1976"/>
+</tour>
